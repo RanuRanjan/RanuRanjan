@@ -7,11 +7,7 @@
 
 - 📫 How to reach me **ranuranjan25@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ranuranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranuranjan" height="30" width="40" /></a>
-<a href="https://medium.com/@ranuranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ranuranjan" height="30" width="40" /></a>
-</p>
+
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
@@ -36,4 +32,8 @@
 
 <a href="https://github.com/RanuRanjan/LyndaClone.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RanuRanjan&repo=LyndaClone.github.io" />
+</a>
+
+<a href="https://github.com/RanuRanjan/TomtopClone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RanuRanjan&repo=TomtopClone"/>
 </a>
