@@ -14,6 +14,12 @@
 </p>
 
 
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<a href = 'https://www.linkedin.com/in/ranuranjan25'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.twitter.com/RanuRanjan25'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<a href = 'https://www.github.com/RanuRanjan'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,3 +32,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranuranjan&show_icons=true&locale=en" alt="ranuranjan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranuranjan&" alt="ranuranjan" /></p>
+
+
+<a href="https://github.com/RanuRanjan/LyndaClone.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RanuRanjan&repo=LyndaClone.github.io" />
+</a>
