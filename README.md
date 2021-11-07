@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranuranjan&label=Profile%20views&color=0e75b6&style=flat" alt="ranuranjan" /> </p>
 
-- 📝 I regularly write articles on [https://medium.com/@ranuranjan25](https://medium.com/@ranuranjan25)
+
 
 - 📫 How to reach me **ranuranjan25@gmail.com**
 
