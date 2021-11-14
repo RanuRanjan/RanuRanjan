@@ -5,7 +5,6 @@
 
 
 
-- 📫 How to reach me **ranuranjan25@gmail.com**
 
 
 
