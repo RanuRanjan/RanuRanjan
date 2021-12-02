@@ -1,5 +1,10 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm RanuRanjan</h1>
-<h3 align="center">A Full Stack Web Developer</h3>
+<!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm RanuRanjan</h1>
+<h3 align="center">A Full Stack Web Developer</h3> -->
+
+
+
+![Screenshot_10](https://user-images.githubusercontent.com/53153822/144397988-db3bf1c0-d6bc-4264-adf2-7b5515597da6.png)
+
 
 
 ## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> 
