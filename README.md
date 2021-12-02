@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ranuranjan25@gmail.com**
 
-- Portfolio **[RanuRanjan](https://ranuranjan-portfolio.vercel.app/)**
+- Portfolio : ** [ RanuRanjan ](https://ranuranjan-myapp-75y1dbf2g-ranuranjan.vercel.app/)**
 
 
 
