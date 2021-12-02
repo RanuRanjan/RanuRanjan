@@ -1,7 +1,20 @@
-<h1 align="center">Hi 👋, I'm Ranu Ranjan</h1>
-<h3 align="center">Aspiring Full-Stack Web Developer from India.</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm RanuRanjan</h1>
+<h3 align="center">A Full Stack Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ranuranjan&label=Profile%20views&color=0e75b6&style=flat" alt="ranuranjan" /> </p>
+
+## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> 
+
+- 👨‍💻 Connect with me **[RanuRanjan](https://www.linkedin.com/in/ranuranjan25/)**
+-  🔭 I’m currently working on **my skills.**
+
+
+
+- 🌱 I’m currently learning **Data Structures and Algorithms, React,Html,CSS and BootStrap.**
+
+
+- 📫 How to reach me **ranuranjan25@gmail.com**
+
+
 
 
 
