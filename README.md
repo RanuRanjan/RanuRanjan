@@ -9,7 +9,7 @@
 
 ## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> 
 
-- 👨‍💻 Connect with me **[RanuRanjan](https://www.linkedin.com/in/ranuranjan25/)**
+- 👨‍💻 Connect with me [RanuRanjan](https://www.linkedin.com/in/ranuranjan25/)
 -  🔭 I’m currently working on **my skills.**
 
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **ranuranjan25@gmail.com**
 
-- Portfolio : ** [ RanuRanjan ](https://ranuranjan-myapp-75y1dbf2g-ranuranjan.vercel.app/)**
+- 👨‍💻 All of my projects are available at  [My Portfolio](https://ranuranjan-myapp-75y1dbf2g-ranuranjan.vercel.app/)
 
 
 
