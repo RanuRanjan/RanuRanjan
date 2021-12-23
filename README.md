@@ -70,13 +70,13 @@
  <p align="center"> Congratulations, you found me on GitHub ! </p>
 
 
-<a href="https://github.com/RanuRanjan/LyndaClone.github.io">
+<!-- <a href="https://github.com/RanuRanjan/LyndaClone.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RanuRanjan&repo=LyndaClone.github.io" />
 </a>
 
 <a href="https://github.com/RanuRanjan/TomtopClone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RanuRanjan&repo=TomtopClone"/>
-</a>
+</a> -->
 
 
 
