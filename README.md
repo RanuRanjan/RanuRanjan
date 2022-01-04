@@ -10,7 +10,7 @@
 ## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> 
 
 - 👨‍💻 Connect with me [RanuRanjan](https://www.linkedin.com/in/ranuranjan25/)
--  🔭 I’m currently working on **my skills.**
+-  🔭 I’m currently working on **my skills**
 
 
 
