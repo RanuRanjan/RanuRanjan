@@ -43,18 +43,15 @@
 
 
 <h1 align="left"> Some Fun Stats 📊 </h1>
-<div>
 
-</div>
-<div align="left">
-<img width="370px" src="https://github-readme-stats.vercel.app/api?username=RanuRanjan&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=FC6401&icon_color=FC6401&bg_color=0D111700&text_color=969696&custom_title=Ranu's+Github Stats"height:"200"  alt="Ranu's Github stats" />
- <div align="left"> 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanuRanjan&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444&title_color=00BFFF"  height="200"/>
 
-</div>
-<h1 align="left"> Contributions 🔥</h1>
-<p align="left">
-  <img width="370px" height:"200" src="http://github-readme-streak-stats.herokuapp.com?user=RanuRanjan&hide_border=true&background=0D111700&border=943BDD00&fire=CB0044&sideNums=FC6401&currStreakLabel=ff96e6e&currStreakNum=969696&sideLabels=FC6401&dates=969696&stroke=7F1DA2" />
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranuranjan&show_icons=true&locale=en&layout=compact" alt="ranuranjan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranuranjan&show_icons=true&locale=en" alt="ranuranjan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranuranjan&" alt="ranuranjan" /></p>
+
 
   <img src="https://activity-graph.herokuapp.com/graph?username=RanuRanjan&theme=radical&bg_color=00000000&point=00000000&line=FC6401&hide_border=true&custom_title=Keep+Exploring,+Learning+and+Contributing+away...&color=969696&area=true&area_color=FC6401">
 
@@ -68,15 +65,6 @@
 </p>
 <---RANU RANJAN-->
  <p align="center"> Congratulations, you found me on GitHub ! </p>
-
-
-<!-- <a href="https://github.com/RanuRanjan/LyndaClone.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RanuRanjan&repo=LyndaClone.github.io" />
-</a>
-
-<a href="https://github.com/RanuRanjan/TomtopClone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RanuRanjan&repo=TomtopClone"/>
-</a> -->
 
 
 
