@@ -63,7 +63,7 @@
   <a href="https://www.instagram.com/meranusingh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://medium.com/@ranuranjan25"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<---RANU RANJAN-->
+
  <p align="center"> Congratulations, you found me on GitHub ! </p>
 
 
