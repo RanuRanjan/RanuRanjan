@@ -53,7 +53,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranuranjan&" alt="ranuranjan" /></p>
 
 
- [![Ranu's github activity graph](https://activity-graph.herokuapp.com/graph?username=RanuRanjan&bg_color=000000&color=98d765&line=5e9e4c&point=e6ce56&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Ranu's github activity graph](https://activity-graph.herokuapp.com/graph?username=RanuRanjan&bg_color=000000&color=98d765&line=5e9e4c&point=e6ce56&area=true&hide_border=true)](https://github.com/RanuRanjan/github-readme-activity-graph)
 
 <h1 align="center"> Find me around the web :globe_with_meridians:</h1>
 <p align="center">
