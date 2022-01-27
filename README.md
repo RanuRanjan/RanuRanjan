@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **ranuranjan25@gmail.com**
 
-- 👨‍💻 All of my projects are available at  [My Portfolio](https://ranuranjan-myapp-75y1dbf2g-ranuranjan.vercel.app/)
+- 👨‍💻 All of my projects are available at  [My Portfolio](https://ranu-portfolio.vercel.app/)
 
 
 
