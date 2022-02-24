@@ -14,7 +14,7 @@
 
 
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, React,Html,CSS and BootStrap.**
+- 🌱 I’m currently learning **TypeScript**
 
 
 - 📫 How to reach me **ranuranjan25@gmail.com**
