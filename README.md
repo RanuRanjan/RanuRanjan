@@ -28,7 +28,7 @@
 
 
 
-<h1 align="center"> 🍁 My Skill stack :</h1>
+<h1 align="center"> My Skill stack :</h1>
 
 
 
