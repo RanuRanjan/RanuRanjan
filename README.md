@@ -14,7 +14,7 @@
 
 
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **MicroFrontEnd**
 
 
 - 📫 How to reach me **ranuranjan25@gmail.com**
