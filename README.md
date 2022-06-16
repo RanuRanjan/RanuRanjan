@@ -3,18 +3,17 @@
 
 
 
-![Screenshot_10](https://user-images.githubusercontent.com/53153822/144397988-db3bf1c0-d6bc-4264-adf2-7b5515597da6.png)
 
 
 
 ## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> 
 
 - 👨‍💻 Connect with me [RanuRanjan](https://www.linkedin.com/in/ranuranjan25/)
--  🔭 I’m currently working on **my skills**
+<!-- -  🔭 I’m currently working on **** -->
 
 
 
-- 🌱 I’m currently learning **MicroFrontEnd**
+- 🌱 I’m currently learning **React**
 
 
 - 📫 How to reach me **ranuranjan25@gmail.com**
