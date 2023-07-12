@@ -14,7 +14,7 @@
 
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NEXTJS**
 
 
 - 📫 How to reach me **ranuranjan25@gmail.com**
