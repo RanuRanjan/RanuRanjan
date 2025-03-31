@@ -1,12 +1,6 @@
 <!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm RanuRanjan</h1>
 <h3 align="center">A Full Stack Web Developer</h3> -->
 
-[![@ranuranjan25's Holopin board](https://holopin.io/api/user/board?user=ranuranjan25)](https://holopin.io/@ranuranjan25)
-
-
-
-
-
 ## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> 
 
 - 👨‍💻 Connect with me [RanuRanjan](https://www.linkedin.com/in/ranuranjan25/)
